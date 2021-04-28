@@ -6,7 +6,7 @@ section.hero {
 	background-size: cover;
 }
 
-section.hero h1,
-section.hero p {
+header.hero h1,
+header.hero p {
 	color: white;
 }
