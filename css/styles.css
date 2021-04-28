@@ -44,4 +44,6 @@ header.hero .btn {
 	background: white;
 	font-size: 20px
 	padding: 1rem 3rem;
+	text-decoration: none;
+	border-radius: 30px;
 }
