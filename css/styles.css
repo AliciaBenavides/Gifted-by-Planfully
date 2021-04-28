@@ -30,7 +30,12 @@ header.hero nav ul li a {
 	text-decoration: none;
 }
 
+header.hero .cta {
+	position: relative;
+	z-index: 1;
+}
+
 header.hero h1,
 header.hero p {
-	color: white;
+	color: #766767;
 }
