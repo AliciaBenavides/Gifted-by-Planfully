@@ -13,6 +13,10 @@ header.hero nav {
 	z-index: 1;
 }
 
+header.hero nav ul li a {
+	color: #766767;
+}
+
 header.hero h1,
 header.hero p {
 	color: white;
