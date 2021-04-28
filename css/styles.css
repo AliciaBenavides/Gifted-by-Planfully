@@ -18,6 +18,10 @@ header.hero nav .brand {
 	flex: 30%;
 }
 
+header.hero nav ul {
+	list-style: none;
+}
+
 header.hero nav ul li a {
 	color: #766767;
 }
