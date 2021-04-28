@@ -40,7 +40,7 @@ header.hero p {
 	color: #766767;
 }
 
-header.hero h1 {
+header.hero .btn {
 	background: white;
 	font-size: 20px
 	padding: 1rem 3rem;
