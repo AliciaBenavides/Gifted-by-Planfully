@@ -9,8 +9,13 @@ section.hero {
     
 header.hero nav {
 	color: #766767;
+	display: flex;
 	position: relative;
 	z-index: 1;
+}
+
+header.hero nav .brand {
+	flex: 30%;
 }
 
 header.hero nav ul li a {
