@@ -19,6 +19,7 @@ header.hero nav .brand {
 }
 
 header.hero nav ul {
+	flex: 70%;
 	list-style: none;
 	display: flex;
 }
