@@ -25,6 +25,7 @@ header.hero nav ul {
 }
 
 header.hero nav ul li a {
+	padding: 1rem 3rem;
 	color: #766767;
 }
 
