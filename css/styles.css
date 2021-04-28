@@ -2,10 +2,21 @@ section.hero {
 	background: #F6E8E8
 	width: 100%;
 	height: 100vh;
-	display: block;
+	position: relative;
 	background: url("../images/couple.jpg") center center;
 	background-size: cover;
 }
+
+header.hero::after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%
+	background-color: #F6E8E8;
+
+}
+    
 
 header.hero h1,
 header.hero p {
