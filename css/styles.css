@@ -39,3 +39,7 @@ header.hero h1,
 header.hero p {
 	color: #766767;
 }
+
+header.hero h1 {
+	font-size: 40px
+}
