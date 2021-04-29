@@ -59,8 +59,20 @@ header.hero .btn {
 		display: block;
 	}
 
- header.hero nav .brand {
+ header.hero nav .brand img {
+	max-width: 100%;
+    }
+
+header.hero nav ul {
+	margin: 0;
 	flex: none;
-  }
+	display: block;
+	padding: 0;
+    }
+
+header.hero nav ul li a {
+	padding: 1rem 0.4rem;
+	font-size: 12px;
+	font-weight: bold;
 
 }
