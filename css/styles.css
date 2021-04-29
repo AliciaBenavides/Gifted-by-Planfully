@@ -87,11 +87,16 @@ header.hero .btn {
 div.tagline {
 	color: #766767;
 	font-size: 80px;
+	position: relative;
+	left: 100px;
+	
 }
 
 div.tagline h1 {
 	color: #766767;
 	font-size: 80px;
+	position: relative;
+	left: 100px;
 
 }
 
