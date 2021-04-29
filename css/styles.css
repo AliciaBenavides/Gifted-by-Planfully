@@ -53,3 +53,14 @@ header.hero .btn {
 	text-decoration: none;
 	border-radius: 30px;
 }
+
+ @media screen and (max-width: 480px) {
+	header.hero nav {
+		display: block;
+	}
+
+ header.hero nav .brand {
+	flex: none;
+  }
+
+}
