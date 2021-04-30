@@ -87,11 +87,12 @@ section.content img {
 }
 
 section.vendor {
-	text-align: left;
+	
 }
 
 section.vendor img {
-	max-width: 500px;
+	max-width: 100px;
+	
 }
 
 @media screen and (max-width: 480px) {
