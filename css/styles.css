@@ -120,15 +120,14 @@ section.registry img {
 }
 
 div.imgdescription {
-	
-	display: flex;
 	color: #766767;
 	font-family: Times;
 	font-size: 20px;
 	font-weight: bold;
-	padding: 1rem 3rem;
+	list-style: none;
 	position: relative;
-	text-align: right;
+	text-align: left;
+	float: right;
 	margin: 1em 0;
 
 }
