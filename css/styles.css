@@ -86,6 +86,14 @@ section.content img {
 
 }
 
+section.vendor {
+	text-align: left;
+}
+
+section.vendor img {
+	max-width: 500px;
+}
+
 @media screen and (max-width: 480px) {
 	header.hero nav {
 		display: block;
@@ -108,8 +116,8 @@ section.content img {
 	font-weight: bold;
 }
 
-.tagline {
-	
+div.tagline {
+	text-align: center;
 	
 }
 
@@ -121,13 +129,7 @@ div.tagline h1 {
 
 }
 
-section.vendorhighlights {
-	text-align: left;
-}
 
-section.vendorhighlights img {
-	max-height: 500px;
-}
 
 
 }
