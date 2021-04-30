@@ -77,11 +77,12 @@ header.hero .btn {
 }
 
 section.content {
-	text-align: center
+	text-align: left;
 }
 
 section.content img {
-	max-width: 500px;
+	max-width: 400px;
+	margin-left: 70px;
 }
 
 @media screen and (max-width: 480px) {
