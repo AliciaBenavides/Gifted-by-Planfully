@@ -1,3 +1,13 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #766767;
+	text-align: center;
+}
+
 section.hero {
 	background: #F6E8E8
 	width: 100%;
@@ -85,10 +95,7 @@ header.hero .btn {
 }
 
 div.tagline {
-	color: #766767;
-	font-size: 80px;
-	position: relative;
-	left: 100px;
+	
 	
 }
 
