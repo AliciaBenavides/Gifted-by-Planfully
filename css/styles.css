@@ -114,7 +114,7 @@ div.tagline {
 }
 
 div.tagline h1 {
-	color: #766767;
+	color: #fff;
 	font-size: 80px;
 	position: relative;
 	left: 100px;
@@ -126,7 +126,7 @@ div.vendorhighlights {
 }
 
 div.vendorhighlights img {
-	max-height: 100px;
+	max-height: 20px;
 }
 
 
