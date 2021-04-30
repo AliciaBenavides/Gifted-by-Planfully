@@ -108,25 +108,25 @@ section.content img {
 	font-weight: bold;
 }
 
-div.tagline {
+.tagline {
 	
 	
 }
 
 div.tagline h1 {
-	color: #fff;
+	color: #766767;
 	font-size: 80px;
 	position: relative;
 	left: 100px;
 
 }
 
-div.vendorhighlights {
+section.vendorhighlights {
 	text-align: left;
 }
 
-div.vendorhighlights img {
-	max-height: 20px;
+section.vendorhighlights img {
+	max-height: 500px;
 }
 
 
