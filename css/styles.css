@@ -120,8 +120,7 @@ section.registry img {
 }
 
 div.imgdescription {
-	flex: 70%;
-	list-style: none;
+	
 	display: flex;
 	color: #766767;
 	font-family: Times;
@@ -131,6 +130,7 @@ div.imgdescription {
 	position: relative;
 	text-align: right;
 	margin: 1em 0;
+
 }
 
 
