@@ -76,6 +76,14 @@ header.hero .btn {
 	left: 490px;
 }
 
+section.content {
+	text-align: center
+}
+
+section.content img {
+	max-width: 500px;
+}
+
 @media screen and (max-width: 480px) {
 	header.hero nav {
 		display: block;
