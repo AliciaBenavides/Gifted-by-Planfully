@@ -79,16 +79,31 @@ header.hero .btn {
 
 
 
-section.content {
+section.aboutuscontent {
 	text-align: left;
 }
 
-section.content img {
-	max-width: 300px;
+section.aboutuscontent img {
+	max-width: 400px;
 	margin-left: 70px;
 
 }
 
+section.paragraph {
+	color: #766767;
+	font-family: Times;
+	font-size: 20px;
+	text-align: center;
+	max-width: 500px;
+	margin-left: 70px;
+	line-height: 2em;
+	padding: 5px;
+	background-color: white;
+	transform: translate(100%, -130%);
+
+
+
+}
 
 
 section.vendor img {
