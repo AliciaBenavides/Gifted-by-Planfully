@@ -79,17 +79,30 @@ header.hero .btn {
 
 
 
-section.aboutuscontent {
-	text-align: left;
-}
-
 section.aboutuscontent img {
 	max-width: 400px;
 	margin-left: 70px;
-
 }
 
-section.paragraph {
+section.productscontent img {
+	max-width: 400px;
+	margin-left: 70px;
+}
+
+section.aboutusparagraph {
+	color: #766767;
+	font-family: Times;
+	font-size: 20px;
+	text-align: center;
+	max-width: 500px;
+	margin-left: 70px;
+	line-height: 2em;
+	padding: 5px;
+	background-color: white;
+	transform: translate(100%, -130%);
+}
+
+section.productsparagraph {
 	color: #766767;
 	font-family: Times;
 	font-size: 20px;
@@ -101,9 +114,11 @@ section.paragraph {
 	background-color: white;
 	transform: translate(100%, -130%);
 
-
-
 }
+
+
+
+
 
 
 section.vendor img {
@@ -142,7 +157,7 @@ div.imgdescription {
 	list-style: none;
 	position: relative;
 	text-align: left;
-	
+}
 
 
 
