@@ -172,15 +172,14 @@ div.imgdescription {
 }
 
 form.contactus {
-	left: 50%;
-    top: 50%;
-    margin-left: -25%;
-    position: absolute;
-    margin-top: -25%;
-
+	color: #766767;
+	font-family: Times;
+	font-size: 20px;
+	font-weight: bold;
+	list-style: none;
+	position: relative;
+	text-align: left;
 }
-
-
 
 
 	
