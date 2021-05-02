@@ -171,6 +171,14 @@ div.imgdescription {
 	text-align: left;
 }
 
+form.contactus {
+	left: 50%;
+    top: 50%;
+    margin-left: -25%;
+    position: absolute;
+    margin-top: -25%;
+
+}
 
 
 
@@ -211,6 +219,7 @@ div.tagline h1 {
 	left: 100px;
 
 }
+
 
 
 
